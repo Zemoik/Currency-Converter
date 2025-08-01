@@ -1,1 +1,1 @@
-# Currency-Converter
+This is a simple currency converter that I built to try and help better my understanding of API Usage
